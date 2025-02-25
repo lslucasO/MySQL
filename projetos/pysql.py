@@ -15,8 +15,8 @@ try:
     cursor = conn.cursor()
     print("Conexão bem-sucedida!")
     
-    id = 3
-    cliente = "Lira Python"
+    id = 4
+    cliente = "Teste"
     produto = "Carro"
     data = "25/08/2021"
     preco = 5000
